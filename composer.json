@@ -34,7 +34,7 @@
                 "Javleds\\Traccar\\TraccarServiceProvider"
             ],
             "aliases": {
-                "TraccarClient": "Javleds\\TraccarApi\\Facades\\Client"
+                "TraccarClient": "Javleds\\Traccar\\Facades\\Client"
             }
         }
     },
