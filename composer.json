@@ -25,7 +25,7 @@
     "require": {
         "orchestra/testbench": "^5.1",
         "simpligps/simpligps-standard": "dev-master",
-        "guzzlehttp/guzzle": "^6.5",
+        "guzzlehttp/guzzle": "^7.2",
         "ext-json": "*"
     },
     "extra": {
