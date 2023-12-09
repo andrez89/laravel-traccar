@@ -1,5 +1,5 @@
 {
-    "name": "javleds/traccar-api",
+    "name": "andrez89/traccar-api",
     "description": "Traccar API wrapper under simpligps-standard",
     "type": "library",
     "license": "MIT",
