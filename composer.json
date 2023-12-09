@@ -1,5 +1,5 @@
 {
-    "name": "andrez89/traccar-api",
+    "name": "andrez89/laravel-traccar",
     "description": "Traccar API wrapper under simpligps-standard",
     "type": "library",
     "license": "MIT",
